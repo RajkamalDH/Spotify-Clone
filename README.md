@@ -4,6 +4,7 @@ A sleek, responsive music player web app built with HTML, CSS, and JavaScript, i
 It allows you to browse albums, play songs, control volume, seek tracks, and enjoy a smooth mobile experience!
 
 # 🚀 Features
+
 📁 Dynamic Album Listing — Albums are loaded automatically from folders containing songs and metadata.
 
 🎶 Play, Pause, Next, Previous controls for seamless listening.
@@ -20,13 +21,13 @@ It allows you to browse albums, play songs, control volume, seek tracks, and enj
 
 # 🛠 Technologies Used
 
-HTML5 — Markup structure
+- HTML5 — Markup structure
 
-CSS3 — Styling and responsive layouts
+- CSS3 — Styling and responsive layouts
 
-JavaScript (Vanilla) — Dynamic functionality and interactivity
+- JavaScript (Vanilla) — Dynamic functionality and interactivity
 
-Fetch API — To load albums and songs dynamically
+- Fetch API — To load albums and songs dynamically
 
 # 📸 Screenshots
 
@@ -40,13 +41,14 @@ Fetch API — To load albums and songs dynamically
 # ⚙ How To Run Locally
 
 - Clone the repository
-
+```
 git clone https://github.com/your-username/spotify-clone.git
+```
 
 - Navigate into the project folder
-
+```
 cd spotify-clone
-
+```
 - Start a local server
 
 Open your browser and go to http://127.0.0.1:5500/ (or whatever port your server suggests).
