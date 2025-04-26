@@ -42,7 +42,7 @@ It allows you to browse albums, play songs, control volume, seek tracks, and enj
 
 - Clone the repository
 ```
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/Rajkamaldh/spotify-clone.git
 ```
 
 - Navigate into the project folder
