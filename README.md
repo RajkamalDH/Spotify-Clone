@@ -32,6 +32,8 @@ Fetch API — To load albums and songs dynamically
 
 ![alt text](<Readme-img/sp 2.png>)
 
+- Song playing
+
 ![alt text](Readme-img/sp3.png)
 
 
